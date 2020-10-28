@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0D253B59-6941-4CA8-934D-376264C97B40}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Deneme_tez2</RootNamespace>
+    <AssemblyName>Deneme-tez2</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArabaOyunu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ArabaOyunu.Designer.cs">
+      <DependentUpon>ArabaOyunu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ayarlar.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HafızaOyunu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HafızaOyunu.Designer.cs">
+      <DependentUpon>HafızaOyunu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HayvanlarAlemi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HayvanlarAlemi.Designer.cs">
+      <DependentUpon>HayvanlarAlemi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hesaplama.Designer.cs">
+      <DependentUpon>Hesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Input.cs" />
+    <Compile Include="Labirentcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Labirentcs.Designer.cs">
+      <DependentUpon>Labirentcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Renkler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Renkler.Designer.cs">
+      <DependentUpon>Renkler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="YilanOyunu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YilanOyunu.Designer.cs">
+      <DependentUpon>YilanOyunu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yuvarlak.cs" />
+    <EmbeddedResource Include="ArabaOyunu.resx">
+      <DependentUpon>ArabaOyunu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HafızaOyunu.resx">
+      <DependentUpon>HafızaOyunu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HayvanlarAlemi.resx">
+      <DependentUpon>HayvanlarAlemi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hesaplama.resx">
+      <DependentUpon>Hesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Labirentcs.resx">
+      <DependentUpon>Labirentcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Renkler.resx">
+      <DependentUpon>Renkler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YilanOyunu.resx">
+      <DependentUpon>YilanOyunu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\518932.jpg-r_1280_720-f_jpg-q_x-xxyxx.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\car.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\carr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\carrr.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\cent.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\cent1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\indir %281%2911.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\madagaskar-3-seslendirenler-1170x832.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ıcon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\ıcon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\huvn6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyn7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyv4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyvn1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyvn2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyvn3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Resimler\hyvn5.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

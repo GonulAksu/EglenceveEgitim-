@@ -1,0 +1,73 @@
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe.config
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.pdb
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.ArabaOyunu.resources
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Form1.resources
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HafızaOyunu.resources
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Properties.Resources.resources
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\Tez-Denemeleri\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.pdb
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe.config
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.exe
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.pdb
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.pdb
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.ArabaOyunu.resources
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Form1.resources
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HafızaOyunu.resources
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.YilanOyunu.resources
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Deneme-tez2\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Labirentcs.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe.config
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.pdb
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.ArabaOyunu.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Form1.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HafızaOyunu.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Labirentcs.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Properties.Resources.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.YilanOyunu.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.pdb
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Renkler.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HayvanlarAlemi.resources
+C:\Users\PC\Desktop\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Hesaplama.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe.config
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.exe
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.pdb
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.pdb
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.ArabaOyunu.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Form1.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HafızaOyunu.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HayvanlarAlemi.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Hesaplama.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Labirentcs.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Renkler.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.YilanOyunu.resources
+C:\Users\Lenovo\Desktop\tez (1)\tez\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe.config
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\bin\Debug\Deneme-tez2.pdb
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.ArabaOyunu.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Form1.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HafızaOyunu.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.HayvanlarAlemi.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Hesaplama.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Labirentcs.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Properties.Resources.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.Renkler.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme_tez2.YilanOyunu.resources
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.exe
+C:\Users\PC\Desktop\Bitirme_tezi_162114022_Hümeyra Aksu_162114012_Gönül_Aksu\Deneme-tez2\Deneme-tez2\obj\Debug\Deneme-tez2.pdb
